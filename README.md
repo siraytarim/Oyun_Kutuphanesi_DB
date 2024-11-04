@@ -14,8 +14,6 @@
 
 - Mail onayından sonra bir kullanıcı için bir id belirlenir. (1:1)
 
-- Bir kullanıcı bir kullanıcı girişi yapabilir. (1:1)
-
 - Platformda birden çok kullanıcı olabilir. (1:N)
 
 - Bir oyuncu birden çok oyuna sahip olabilir. (1:N)
@@ -30,7 +28,7 @@
 
 - Bir şirketin yayımladığı birçok oyun olabilir. (1:N)
 
-- Bir kullanıcı bir oyuna geribildirim yapabilir. (1:1)
+- Bir kullanıcı birden fazla oyuna geribildirim yapabilir. (1:N)
 
 - Platform içindeki oyunlara kategorilerden ulaşılabilir. (N:M)
 
@@ -38,13 +36,14 @@
 
 - Türler kısmının içerisinde oyunların türlerine ait genel başlıklar ve onların alt başlıkları bulunur. (1:N)
 
-- Türler kendi içlerinde birkaç alt başlığa ayrılabilir. (Bknz. Aksiyon – Arcade ve Ritim , Birinci Şahıs Nişancı vb.) 
+- Türler kendi içlerinde birkaç alt başlığa ayrılabilir. (Bknz. Aksiyon – Arcade ve Ritim , Birinci Şahıs Nişancı vb.) (1:N)
+
+- Oyunların sağladığı işletim sistemleri için de macOS, Steam OS + Linux için bulunur. (N:M)
 
 - En çok satanlar kısmının içerisinde türlerine ve tarih bilgisine göre en çok satın alınan oyunlar bulunur. 
 
 - Oyunlar; oyun id, oyun adı, türü, fiyatı, çıkış tarihi, yazılımcısı, yayımcısı, sağlandığı sistemler, geri bildirimi gibi bilgilere sahiptir. 
 
-- Oyunların sağladığı işletim sistemleri için de macOS, Steam OS + Linux için bulunur. (N:M)
 
 <br>
 
