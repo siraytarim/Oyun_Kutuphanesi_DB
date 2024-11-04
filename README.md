@@ -28,7 +28,7 @@
 
 - Bir şirketin yayımladığı birçok oyun olabilir. (1:N)
 
-- Bir kullanıcı birden fazla oyuna geribildirim yapabilir. (1:N)
+- Bir kullanıcı bir oyuna geribildirim yapabilir. (1:1)
 
 - Platform içindeki oyunlara kategorilerden ulaşılabilir. (N:M)
 
