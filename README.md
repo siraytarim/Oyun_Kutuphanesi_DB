@@ -32,7 +32,7 @@
 
 - Platform içindeki oyunlara kategorilerden ulaşılabilir. (N:M)
 
-- Kategori bölümü bir tane olabilir içerisinde türler bulunur. (1:N)
+- Her tür birden fazla kategoriye ait olabilir. (N:M)
 
 - Türler kısmının içerisinde oyunların türlerine ait genel başlıklar ve onların alt başlıkları bulunur. (1:N)
 
