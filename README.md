@@ -8,37 +8,37 @@
 ### Proje Gereksinimleri:
 <br>
 
-- Kullanıcı olabilmek için mail ve şifre gerekir. (1:1)
+- Kullanıcı olabilmek için mail ve şifre gerekir. 
 
-- Bir kullanıcı bir hesaba giriş yapabilir. (1:1)
+- Bir kullanıcı bir hesaba giriş yapabilir. 
 
-- Mail onayından sonra bir kullanıcı için bir id belirlenir. (1:1)
+- Mail onayından sonra bir kullanıcı için bir id belirlenir. 
 
-- Platformda birden çok kullanıcı olabilir. (1:N)
+- Platformda birden çok kullanıcı olabilir. 
 
-- Bir oyuncu birden çok oyuna sahip olabilir. (1:N)
+- Bir oyuncu birden çok oyuna sahip olabilir. 
 
-- Bir oyunun birçok kullanıcısı olabilir. (1:N)
+- Bir oyunun birçok kullanıcısı olabilir. 
 
-- Bir oyunun bir geliştiricisi olabilir. (1:1)
+- Bir oyunun bir geliştiricisi olabilir. 
 
-- Bir geliştiricinin birden çok oyunu olabilir. (1:N)
+- Bir geliştiricinin birden çok oyunu olabilir. 
 
-- Bir oyunu yayımlayan bir şirket olabilir. (1:1)
+- Bir oyunu yayımlayan bir şirket olabilir. 
 
-- Bir şirketin yayımladığı birçok oyun olabilir. (1:N)
+- Bir şirketin yayımladığı birçok oyun olabilir. 
 
-- Bir kullanıcı bir oyuna geribildirim yapabilir. (1:1)
+- Bir kullanıcı bir oyuna geribildirim yapabilir. 
 
-- Platform içindeki oyunlara kategorilerden ulaşılabilir. (N:M)
+- Platform içindeki oyunlara kategorilerden ulaşılabilir. 
 
-- Her tür birden fazla kategoriye ait olabilir. (N:M)
+- Her tür birden fazla kategoriye ait olabilir. 
 
-- Türler kısmının içerisinde oyunların türlerine ait genel başlıklar ve onların alt başlıkları bulunur. (1:N)
+- Türler kısmının içerisinde oyunların türlerine ait genel başlıklar ve onların alt başlıkları bulunur. 
 
-- Türler kendi içlerinde birkaç alt başlığa ayrılabilir. (Bknz. Aksiyon – Arcade ve Ritim , Birinci Şahıs Nişancı vb.) (1:N)
+- Türler kendi içlerinde birkaç alt başlığa ayrılabilir. (Bknz. Aksiyon – Arcade ve Ritim , Birinci Şahıs Nişancı vb.) 
 
-- Oyunların sağladığı işletim sistemleri için de macOS, Steam OS + Linux için bulunur. (N:M)
+- Oyunların sağladığı işletim sistemleri için de macOS, Steam OS + Linux için bulunur. 
 
 - En çok satanlar kısmının içerisinde türlerine ve tarih bilgisine göre en çok satın alınan oyunlar bulunur. 
 
