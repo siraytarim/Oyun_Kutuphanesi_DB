@@ -36,7 +36,7 @@
 
 - Türler kısmının içerisinde oyunların türlerine ait genel başlıklar ve onların alt başlıkları bulunur. 
 
-- Türler kendi içlerinde birkaç alt başlığa ayrılabilir. (Bknz. Aksiyon – Arcade ve Ritim , Birinci Şahıs Nişancı vb.) 
+- Türler kendi içlerinde birkaç alt başlığa ayrılabilir. (Aksiyon, Arcade, Rol Yapma, Birinci Şahıs Nişancı vb.) 
 
 - Oyunların sağladığı işletim sistemleri için de macOS, Steam OS + Linux için bulunur. 
 
