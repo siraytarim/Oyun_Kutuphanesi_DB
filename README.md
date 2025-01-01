@@ -88,7 +88,6 @@
 <br>
 
 **Kategoriler**
-- ca_id: int
 - ca_name: varchar
 
 <br>
