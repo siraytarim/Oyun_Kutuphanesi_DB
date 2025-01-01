@@ -84,6 +84,8 @@
 - g_Price: smallmoney
 - g_OS: varchar
 - g_review: int
+- g_tags: varchar
+- g_Desc: varchar
 
 <br>
 
