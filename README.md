@@ -50,7 +50,7 @@
 ### İlişkisel Şema:   
 <br>
 
-**Kullanıcılar**
+**Users**
 - u_id: int
 - u_Name: varchar
 - u_date: datetime
@@ -74,7 +74,7 @@
 
 <br>
 
-**Oyunlar**
+**Games**
 - g_id: int
 - g_Name: varchar
 - g_ReleaseTime: datetime
@@ -100,20 +100,20 @@
 
 <br>
 
-**Görüşler**
+**Reviews**
 - u_id: int
 - r_comment: varchar
 - r_votes: int
 
 <br>
 
-**Yayımlayan**
+**Publisher**
 - p_id: int
 - p_name: varchar
 
 <br>
 
-**Geliştirici**
+**Developer**
 - d_name: varchar
 
 <br>
