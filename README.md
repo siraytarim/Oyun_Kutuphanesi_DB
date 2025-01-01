@@ -113,7 +113,6 @@
 <br>
 
 **Geliştirici**
-- d_id: int
 - d_name: varchar
 
 <br>
