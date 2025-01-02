@@ -40,8 +40,6 @@
 
 - Oyunların sağladığı işletim sistemleri için de macOS, Steam OS + Linux için bulunur. 
 
-- En çok satanlar kısmının içerisinde türlerine ve tarih bilgisine göre en çok satın alınan oyunlar bulunur. 
-
 - Oyunlar; oyun id, oyun adı, türü, fiyatı, çıkış tarihi, yazılımcısı, yayımcısı, sağlandığı sistemler, geri bildirimi gibi bilgilere sahiptir. 
 
 
