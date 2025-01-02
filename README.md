@@ -101,7 +101,7 @@
 <br>
 
 **Reviews**
-- u_id: int
+- r_id: int
 - r_comment: varchar
 - r_votes: int
 
